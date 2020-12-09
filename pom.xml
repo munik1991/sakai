@@ -41,6 +41,10 @@
             </activation>
             <modules>
                 <module>master</module>
+<module>attendance</module>
+<module>bbb-tool</module>
+<module>evaluation</module>
+<module>certification</module>
                 <module>admin-tools</module>
                 <module>admin-su</module>
                 <module>access</module>

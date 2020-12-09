@@ -1,0 +1,12 @@
+.classpath
+.project
+.idea
+*.iml
+.settings
+/api/bin/
+/api/target*
+/bundle/target/*
+/components/target*
+/impl/target*
+/tool/target*
+/assembly*
